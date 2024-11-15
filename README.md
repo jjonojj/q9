@@ -2,7 +2,7 @@
 yet another programming language.
 very lightweight, no dependencies atm.
 
-# examples
+## examples
 currently, the language has no standard library, so functionality is **very very** limited.
 it is dynamically typed, the only real type that exists at the moment is a number (a 64-bit floating point value).
 you can still create functions, pass arguments to functions, and return from them.
