@@ -16,7 +16,7 @@ get(4)
 
 the above get statement would return 4.
 ```
-let x = 2;
+let x = 2
 
 function setx() {
   x = 3
