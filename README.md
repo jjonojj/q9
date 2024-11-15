@@ -1,6 +1,6 @@
 # q9
 yet another programming language.
-very lightweight, no dependencies atm.
+very lightweight (lightweight != fast), no dependencies atm.
 
 ## examples
 currently, the language has no standard library, so functionality is **very very** limited.
